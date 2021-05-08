@@ -1,6 +1,12 @@
 zddhub's itermcolor files
 =========================
 
+# Profile
+
+Step1: Preferences -> Profiles -> Other Actions -> Import JSON profiles (zddhub_iterm_profile.json)
+
+
+# Deprecated
 
 Step1: Preferences -> Profiles -> Colors -> Color Presets... -> Import (zddhub.itermcolor)
 
